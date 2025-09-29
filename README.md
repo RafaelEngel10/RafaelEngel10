@@ -32,6 +32,6 @@
 ## 🤝 Vamos conversar?
 
 🗨 Manda um salve no [LinkedIn](https://www.linkedin.com/in/rafael-engel-serafin-33941b35a/)
-📩 ou me mande um e-mail através do engelrafael03@gmail.com.
+ou me mande um e-mail📩 através do engelrafael03@gmail.com.
 Fique a vontade para conferir meus repositórios do GitHub!  
 
