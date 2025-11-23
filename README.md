@@ -62,7 +62,7 @@ Atualmente, estou focado em:
 ## 🌟 Projetos em destaque
 
 ### 🔹 **CSScript**
-Linguagem de estilização interpretada do JavaScript, focada em criação simples e prática de animações.
+Linguagem de estilização interpretada do JavaScript, focada na criação prática e lógica de animações, através de uma síntaxe simples e legível.
 
 ### 🔹 **Clint o bot**
 Este projeto se baseia na criação de um bot para Discord, fazendo o uso da linguagem Python.
