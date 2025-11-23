@@ -15,25 +15,35 @@ Atualmente, estou focado em:
 ## 🛠️ Tecnologias e ferramentas que utilizo
 
 ### 💼 **Linguagens**
-- Java ☕  
-- Python 🐍  
-- JavaScript / TypeScript  
-- Ansi C / C++ 🧩  
-- HTML / CSS / Markdown  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" />
+</p>
 
 ### ⚙️ **Frameworks & Bibliotecas**
-- Vite
-- Node.js  
-- React  
-- Express  
-- Forge / Fabric (Minecraft Modding)  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+</p> 
 
 ### 🧰 **Ferramentas de Desenvolvimento**
-- Git & GitHub  
-- IntelliJ IDEA  
-- VS Code  
-- Docker  
-- Gradle / Maven  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
+</p>
 
 ---
 
@@ -54,8 +64,9 @@ Atualmente, estou focado em:
 ### 🔹 **CSScript**
 Linguagem de estilização interpretada do JavaScript, focada em criação simples e prática de animações.
 
-### 🔹 **Clint o Bot**
-Este projeto se baseia na criação de um bot para Discord, utilizando Python.
+### 🔹 **Clint o bot**
+Este projeto se baseia na criação de um bot para Discord, fazendo o uso da linguagem Python.
+
 ---
 
 ## 🎯 Objetivos atuais
@@ -66,7 +77,7 @@ Este projeto se baseia na criação de um bot para Discord, utilizando Python.
 
 ---
 
-## 📫 Como me encontrar
+## 📩 Como me contatar
 - ✉️ Email: **engelrafael03@gmail.com**  
 - 💼 LinkedIn: [Rafael Engel Serafin](https://www.linkedin.com/in/rafael-engel-serafin-33941b35a/)  
 - 🌐 Portfolio: *em breve*  
