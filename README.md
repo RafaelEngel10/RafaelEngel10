@@ -1,4 +1,4 @@
-# 👋 Olá! Seja bem-vindo ao meu GitHub! Meu nome é Rafael Engel Serafin.
+# 👋 Olá! Seja bem-vindo ao meu GitHub! <br> Meu nome é Rafael Engel Serafin.
 
 ## 🚀 Sobre mim
 Sou um Engenheiro de Software apaixonado por tecnologia, aprendizado contínuo e criação de projetos que realmente fazem a diferença.  
