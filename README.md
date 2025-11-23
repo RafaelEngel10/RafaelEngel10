@@ -49,7 +49,7 @@ Atualmente, estou focado em:
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
+<div align="center" display="flex">
   
 ![Stats](https://raw.githubusercontent.com/RafaelEngel10/github-stats-generator/main/stats.svg)
 
