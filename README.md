@@ -51,7 +51,7 @@ Atualmente, estou focado em:
 
 <div align="center">
   
-![Stats](https://raw.githubusercontent.com/RafaelEngel10/github-stats-generator/main/stats.svg)
+![Stats](https://raw.githubusercontent.com/RafaelEngel10/github-stats-generator/stats.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelEngel10&layout=compact&theme=tokyonight&hide_border=true)
 
