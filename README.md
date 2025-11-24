@@ -51,7 +51,7 @@ Atualmente, estou focado em:
 
 <div align="center" display="flex">
   
-![Stats](https://github-readme-stats.vercel.app/api?username=RafaelEngel10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=RafaelEngel10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelEngel10&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
