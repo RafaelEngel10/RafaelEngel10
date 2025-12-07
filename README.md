@@ -6,7 +6,7 @@ Gosto de explorar novas linguagens, frameworks e ferramentas, sempre em busca de
 
 Atualmente, estou focado em:
 - 🔧 Desenvolvimento de mods e ferramentas para a comunidade de desenvolvedores  
-- 💻 FullStack e criação de APIs  
+- 💻 FullStack e criação de softwares
 - 🎨 Interfaces modernas e responsivas  
 - ☁️ Automação e otimização de fluxos de trabalho  
 
